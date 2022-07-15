@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabisalescunha
 - 👀 I’m interested in learn code
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate at front end
+- 💞️ I’m looking to collaborate in front end
 - 📫 How to reach me <gabrielle_bertocchi@hotmail.com
 
 <!---
