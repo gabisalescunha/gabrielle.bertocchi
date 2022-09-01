@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @gabisalescunha
+- ### 👋 Hi, I’m Gabrielle Bertocchi
 - 👀 I’m interested in learn code
 - 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate in front end
 - 📫 How to reach me <gabrielle_bertocchi@hotmail.com
 
-<!---
-gabisalescunha/gabisalescunha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabisalescunha&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabisalescunha&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
